@@ -13,7 +13,7 @@ h1 {
   font-weigh: bold;
 }
 
-nav {
+.navigation a {
   font-size: 18px;
 }
 
@@ -42,4 +42,8 @@ p {
   color: white;
   font-size: 11px;
   text-align:left;
+}
+
+a {
+  color:white;
 }
